@@ -61,4 +61,5 @@ print("Cipher: " + encrypt(text, s))
 ```
 
 OUTPUT :-
+ 
 ![image](https://github.com/user-attachments/assets/434299cb-1fba-48ed-8cae-0e2d79869616)
